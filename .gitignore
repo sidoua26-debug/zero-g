@@ -1,0 +1,9 @@
+skills-archive/
+scratch/
+repo_clones/
+install_results.json
+*.bak-*
+.env
+*.key
+*.token
+credentials*

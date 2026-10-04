@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "skills": {
+    "brainstorming": {
+      "repo": "https://github.com/obra/superpowers.git",
+      "commit": "5bf4e78011075bcfc0dc295f0724994cd123ee71",
+      "path": "skills/brainstorming"
+    },
+    "diagnosing-superpowers": {
+      "repo": "https://github.com/obra/superpowers.git",
+      "commit": "5bf4e78011075bcfc0dc295f0724994cd123ee71",
+      "path": "skills/diagnosing-superpowers"
+    },
+    "dispatching-parallel-agents": {
+      "repo": "https://github.com/obra/superpowers.git",
+      "commit": "5bf4e78011075bcfc0dc295f0724994cd123ee71",
+      "path": "skills/dispatching-parallel-agents"
+    },
+    "executing-plans": {
+      "repo": "https://github.com/obra/superpowers.git",
+      "commit": "5bf4e78011075bcfc0dc295f0724994cd123ee71",
+      "path": "skills/executing-plans"
+    },
+    "finishing-a-development-branch": {
+      "repo": "https://github.com/obra/superpowers.git",
+      "commit": "5bf4e78011075bcfc0dc295f0724994cd123ee71",
+      "path": "skills/finishing-a-development-branch"
+    },
+    "receiving-code-review": {
+      "repo": "https://github.com/obra/superpowers.git",
+      "commit": "5bf4e78011075bcfc0dc295f0724994cd123ee71",
+      "path": "skills/receiving-code-review"
+    },
+    "requesting-code-review": {
+      "repo": "https://github.com/obra/superpowers.git",
+      "commit": "5bf4e78011075bcfc0dc295f0724994cd123ee71",
+      "path": "skills/requesting-code-review"
+    },
+    "subagent-driven-development": {
+      "repo": "https://github.com/obra/superpowers.git",
+      "commit": "5bf4e78011075bcfc0dc295f0724994cd123ee71",
+      "path": "skills/subagent-driven-development"
+    },
+    "systematic-debugging": {
+      "repo": "https://github.com/obra/superpowers.git",
+      "commit": "5bf4e78011075bcfc0dc295f0724994cd123ee71",
+      "path": "skills/systematic-debugging"
+    },
+    "using-git-worktrees": {
+      "repo": "https://github.com/obra/superpowers.git",
+      "commit": "5bf4e78011075bcfc0dc295f0724994cd123ee71",
+      "path": "skills/using-git-worktrees"
+    },
+    "using-superpowers": {
+      "repo": "https://github.com/obra/superpowers.git",
+      "commit": "5bf4e78011075bcfc0dc295f0724994cd123ee71",
+      "path": "skills/using-superpowers"
+    },
+    "verification-before-completion": {
+      "repo": "https://github.com/obra/superpowers.git",
+      "commit": "5bf4e78011075bcfc0dc295f0724994cd123ee71",
+      "path": "skills/verification-before-completion"
+    },
+    "writing-plans": {
+      "repo": "https://github.com/obra/superpowers.git",
+      "commit": "5bf4e78011075bcfc0dc295f0724994cd123ee71",
+      "path": "skills/writing-plans"
+    },
+    "writing-skills": {
+      "repo": "https://github.com/obra/superpowers.git",
+      "commit": "5bf4e78011075bcfc0dc295f0724994cd123ee71",
+      "path": "skills/writing-skills"
+    },
+    "ponytail": {
+      "repo": "https://github.com/DietrichGebert/ponytail.git",
+      "commit": "e3ba2aa6f1e6f0bc4d69eb09c9f0d0a93af56156",
+      "path": "skills/ponytail"
+    },
+    "ponytail-audit": {
+      "repo": "https://github.com/DietrichGebert/ponytail.git",
+      "commit": "e3ba2aa6f1e6f0bc4d69eb09c9f0d0a93af56156",
+      "path": "skills/ponytail-audit"
+    },
+    "ponytail-debt": {
+      "repo": "https://github.com/DietrichGebert/ponytail.git",
+      "commit": "e3ba2aa6f1e6f0bc4d69eb09c9f0d0a93af56156",
+      "path": "skills/ponytail-debt"
+    },
+    "ponytail-gain": {
+      "repo": "https://github.com/DietrichGebert/ponytail.git",
+      "commit": "e3ba2aa6f1e6f0bc4d69eb09c9f0d0a93af56156",
+      "path": "skills/ponytail-gain"
+    },
+    "ponytail-help": {
+      "repo": "https://github.com/DietrichGebert/ponytail.git",
+      "commit": "e3ba2aa6f1e6f0bc4d69eb09c9f0d0a93af56156",
+      "path": "skills/ponytail-help"
+    },
+    "ponytail-review": {
+      "repo": "https://github.com/DietrichGebert/ponytail.git",
+      "commit": "e3ba2aa6f1e6f0bc4d69eb09c9f0d0a93af56156",
+      "path": "skills/ponytail-review"
+    },
+    "api-and-interface-design": {
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "commit": "bcab6a1b8503100e8618c3b4e32cc78de43de769",
+      "path": "skills/api-and-interface-design"
+    },
+    "ci-cd-and-automation": {
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "commit": "bcab6a1b8503100e8618c3b4e32cc78de43de769",
+      "path": "skills/ci-cd-and-automation"
+    },
+    "code-review-and-quality": {
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "commit": "bcab6a1b8503100e8618c3b4e32cc78de43de769",
+      "path": "skills/code-review-and-quality"
+    },
+    "code-simplification": {
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "commit": "bcab6a1b8503100e8618c3b4e32cc78de43de769",
+      "path": "skills/code-simplification"
+    },
+    "constraint-driven-development": {
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "commit": "bcab6a1b8503100e8618c3b4e32cc78de43de769",
+      "path": "skills/constraint-driven-development"
+    },
+    "context-engineering": {
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "commit": "bcab6a1b8503100e8618c3b4e32cc78de43de769",
+      "path": "skills/context-engineering"
+    },
+    "debugging-and-error-recovery": {
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "commit": "bcab6a1b8503100e8618c3b4e32cc78de43de769",
+      "path": "skills/debugging-and-error-recovery"
+    },
+    "deprecation-and-migration": {
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "commit": "bcab6a1b8503100e8618c3b4e32cc78de43de769",
+      "path": "skills/deprecation-and-migration"
+    },
+    "documentation-and-adrs": {
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "commit": "bcab6a1b8503100e8618c3b4e32cc78de43de769",
+      "path": "skills/documentation-and-adrs"
+    },
+    "doubt-driven-development": {
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "commit": "bcab6a1b8503100e8618c3b4e32cc78de43de769",
+      "path": "skills/doubt-driven-development"
+    },
+    "frontend-ui-engineering": {
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "commit": "bcab6a1b8503100e8618c3b4e32cc78de43de769",
+      "path": "skills/frontend-ui-engineering"
+    },
+    "git-workflow-and-versioning": {
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "commit": "bcab6a1b8503100e8618c3b4e32cc78de43de769",
+      "path": "skills/git-workflow-and-versioning"
+    },
+    "idea-refine": {
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "commit": "bcab6a1b8503100e8618c3b4e32cc78de43de769",
+      "path": "skills/idea-refine"
+    },
+    "incremental-implementation": {
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "commit": "bcab6a1b8503100e8618c3b4e32cc78de43de769",
+      "path": "skills/incremental-implementation"
+    },
+    "interview-me": {
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "commit": "bcab6a1b8503100e8618c3b4e32cc78de43de769",
+      "path": "skills/interview-me"
+    },
+    "observability-and-instrumentation": {
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "commit": "bcab6a1b8503100e8618c3b4e32cc78de43de769",
+      "path": "skills/observability-and-instrumentation"
+    },
+    "performance-optimization": {
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "commit": "bcab6a1b8503100e8618c3b4e32cc78de43de769",
+      "path": "skills/performance-optimization"
+    },
+    "planning-and-task-breakdown": {
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "commit": "bcab6a1b8503100e8618c3b4e32cc78de43de769",
+      "path": "skills/planning-and-task-breakdown"
+    },
+    "security-and-hardening": {
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "commit": "bcab6a1b8503100e8618c3b4e32cc78de43de769",
+      "path": "skills/security-and-hardening"
+    },
+    "shipping-and-launch": {
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "commit": "bcab6a1b8503100e8618c3b4e32cc78de43de769",
+      "path": "skills/shipping-and-launch"
+    },
+    "source-driven-development": {
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "commit": "bcab6a1b8503100e8618c3b4e32cc78de43de769",
+      "path": "skills/source-driven-development"
+    },
+    "spec-driven-development": {
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "commit": "bcab6a1b8503100e8618c3b4e32cc78de43de769",
+      "path": "skills/spec-driven-development"
+    },
+    "test-driven-development": {
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "commit": "bcab6a1b8503100e8618c3b4e32cc78de43de769",
+      "path": "skills/test-driven-development"
+    },
+    "using-agent-skills": {
+      "repo": "https://github.com/addyosmani/agent-skills.git",
+      "commit": "bcab6a1b8503100e8618c3b4e32cc78de43de769",
+      "path": "skills/using-agent-skills"
+    },
+    "ui-ux-pro-max": {
+      "repo": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git",
+      "commit": "477bcb28c9812b385cb51a4605ddf30d7b2266e2",
+      "path": ".claude/skills/ui-ux-pro-max"
+    },
+    "design-system": {
+      "repo": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git",
+      "commit": "477bcb28c9812b385cb51a4605ddf30d7b2266e2",
+      "path": ".claude/skills/design-system"
+    },
+    "understand": {
+      "repo": "https://github.com/Egonex-AI/Understand-Anything.git",
+      "commit": "1d7418b8abfa543744ae029e63a482aee03f9022",
+      "path": "understand-anything-plugin/skills/understand"
+    },
+    "understand-diff": {
+      "repo": "https://github.com/Egonex-AI/Understand-Anything.git",
+      "commit": "1d7418b8abfa543744ae029e63a482aee03f9022",
+      "path": "understand-anything-plugin/skills/understand-diff"
+    },
+    "understand-explain": {
+      "repo": "https://github.com/Egonex-AI/Understand-Anything.git",
+      "commit": "1d7418b8abfa543744ae029e63a482aee03f9022",
+      "path": "understand-anything-plugin/skills/understand-explain"
+    },
+    "i-have-adhd": {
+      "repo": "https://github.com/ayghri/i-have-adhd.git",
+      "commit": "839872f9d1cd634fed642b4589ce7226199cc15f",
+      "path": "skills/i-have-adhd"
+    }
+  }
+}
